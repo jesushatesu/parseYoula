@@ -17,7 +17,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/t9221823420/yii-template.git"
+      "url": "https://github.com/jesushatesu/parseYoula.git"
     }
   ]
 }
