@@ -6,6 +6,8 @@
  * Time: 13:51
  */
 
+namespace jesushatesu;
+
 class ParseYoula
 {
     private $__value;
