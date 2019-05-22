@@ -6,7 +6,7 @@
  * Time: 13:51
  */
 
-namespace jesushatesu;
+namespace jesushatesu\parse;
 
 class ParseYoula
 {
