@@ -1,0 +1,17 @@
+{
+  "name": "jesushatesu/parse",
+  "description": "parsing youla",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jesus Christ",
+      "email": "111art.rnd111@gmail.com"
+    }
+  ],
+  "require": {
+    "php" : ">= 5.4.0"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
