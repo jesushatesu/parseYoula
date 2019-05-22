@@ -1,6 +1,7 @@
 {
   "name": "jesushatesu/parse",
   "description": "parsing youla",
+  "minimum-stability": "dev",
   "license": "proprietary",
   "authors": [
     {
