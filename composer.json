@@ -13,5 +13,11 @@
   },
   "autoload": {
     "classmap": ["src"]
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/t9221823420/yii-template.git"
+    }
+  ]
 }
