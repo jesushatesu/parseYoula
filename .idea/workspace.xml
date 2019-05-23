@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="749d54c5-0a2b-42c7-b0bb-5fb3bf20a8d7" name="Default Changelist" comment="fixed file structure">
+    <list default="true" id="749d54c5-0a2b-42c7-b0bb-5fb3bf20a8d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
@@ -22,19 +22,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding>
-                <element signature="n#setValue#0;n#ParseYoula#0;n#!!top" />
-                <element signature="n#getValue#0;n#ParseYoula#0;n#!!top" />
-                <element signature="n#parse#0;n#ParseYoula#0;n#!!top" />
-                <element signature="n#isDomainAvailable#0;n#ParseYoula#0;n#!!top" />
-                <element signature="n#getHead#0;n#ParseYoula#0;n#!!top" />
-                <element signature="n#getInputForm#0;n#ParseYoula#0;n#!!top" />
-                <element signature="n#getAd#0;n#ParseYoula#0;n#!!top" />
-                <element signature="n#getFooter#0;n#ParseYoula#0;n#!!top" />
-                <element signature="n#parse_youla#0;n#ParseYoula#0;n#!!top" />
-                <element signature="n#customTrim#0;n#ParseYoula#0;n#!!top" />
-                <element signature="n#in_array_youla#0;n#ParseYoula#0;n#!!top" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -42,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="221">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -89,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,6 +92,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,7 +129,8 @@
       <option name="presentableId" value="Default" />
       <updated>1558521848561</updated>
       <workItem from="1558521850047" duration="1859000" />
-      <workItem from="1558555656162" duration="2388000" />
+      <workItem from="1558555656162" duration="3001000" />
+      <workItem from="1558595524170" duration="224000" />
     </task>
     <task id="LOCAL-00001" summary="fixed file structure">
       <created>1558523073597</created>
@@ -193,17 +181,24 @@
       <option name="project" value="LOCAL" />
       <updated>1558557845255</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fixed file structure">
+      <created>1558558050791</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558558050791</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4247000" />
+    <option name="totallyTimeSpent" value="5084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -246,26 +241,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="n#setValue#0;n#ParseYoula#0;n#!!top" />
-            <element signature="n#getValue#0;n#ParseYoula#0;n#!!top" />
-            <element signature="n#parse#0;n#ParseYoula#0;n#!!top" />
-            <element signature="n#isDomainAvailable#0;n#ParseYoula#0;n#!!top" />
-            <element signature="n#getHead#0;n#ParseYoula#0;n#!!top" />
-            <element signature="n#getInputForm#0;n#ParseYoula#0;n#!!top" />
-            <element signature="n#getAd#0;n#ParseYoula#0;n#!!top" />
-            <element signature="n#getFooter#0;n#ParseYoula#0;n#!!top" />
-            <element signature="n#parse_youla#0;n#ParseYoula#0;n#!!top" />
-            <element signature="n#customTrim#0;n#ParseYoula#0;n#!!top" />
-            <element signature="n#in_array_youla#0;n#ParseYoula#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="221">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>
